@@ -2,6 +2,32 @@
 
 This project contains several controller classes for handling different functionalities in an E-commerce web application built with Spring Boot.
 
+## Technology Used
+
+The E-commerce web application is developed using the following technologies and frameworks:
+
+1. **Spring Boot:** The project is built on top of the Spring Boot framework, which provides a rapid development environment for building Java-based applications.
+
+2. **Spring MVC:** The application follows the Model-View-Controller (MVC) architectural pattern using Spring MVC for handling web requests and responses.
+
+3. **Spring Data JPA:** Spring Data JPA is used for database access and provides a repository abstraction over the underlying database.
+
+4. **Thymeleaf:** Thymeleaf is used as the templating engine for generating dynamic HTML pages and rendering data on the frontend.
+
+5. **Java Persistence API (JPA):** JPA is used to map Java objects to relational database entities and handle database operations.
+
+6. **Lombok:** Lombok is used to reduce boilerplate code by automatically generating getters, setters, constructors, and other utility methods.
+
+7. **Jakarta Persistence API (Jakarta EE):** Jakarta EE (previously Java EE) is used for defining and managing enterprise-level components and services.
+
+8. **HTML/CSS:** The frontend part of the application is built using HTML and CSS to create the user interface.
+
+9. **Bootstrap:** Bootstrap is used as a frontend framework to enhance the responsiveness and aesthetics of the web application.
+
+10. **JavaScript:** JavaScript is used for client-side interactions and adding dynamic behavior to the frontend.
+
+
+
 ## AdminController
 
 The `AdminController` handles admin-related functionalities such as category management and product management.
